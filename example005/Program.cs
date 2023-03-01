@@ -1,11 +1,11 @@
 ﻿// Задача 34: Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
 // [345, 897, 568, 234] -> 2
 /*
-int [] Randarray() //create new massive
+int [] Randarray() //create new array
 {
     int size = 0;
     
-    Console.WriteLine("Input size massive");
+    Console.WriteLine("Input size array");
     size = Convert.ToInt32(Console.ReadLine());
     int [] array = new int[size];
     for(int i= 0; i < size; i++)
@@ -15,7 +15,7 @@ int [] Randarray() //create new massive
     return array;
 }
 
-void Printarray(int [] arr) //print massive
+void Printarray(int [] arr) //print array
 {
     for(int i = 0; i<arr.Length; i++ )
     {
@@ -43,11 +43,11 @@ Console.WriteLine("Positive elements "+PositiveElements(array2));
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 /*
-int [] Randarray() //create new massive
+int [] Randarray() //create new array
 {
     int size = 0;
     
-    Console.WriteLine("Input size massive");
+    Console.WriteLine("Input size array");
     size = Convert.ToInt32(Console.ReadLine());
     int [] array = new int[size];
     for(int i= 0; i < size; i++)
@@ -57,7 +57,7 @@ int [] Randarray() //create new massive
     return array;
 }
 
-void Printarray(int [] arr) //print massive
+void Printarray(int [] arr) //print array
 {
     for(int i = 0; i<arr.Length; i++ )
     {
@@ -84,11 +84,11 @@ Console.WriteLine("Summ elements "+ Summ(array2));
 // [3 7 22 2 78] -> 76
 
 /*
-double [] Randarray() //create new massive
+double [] Randarray() //create new array
 {
     int size = 0;
     
-    Console.WriteLine("Input size massive");
+    Console.WriteLine("Input size array");
     size = Convert.ToInt32(Console.ReadLine());
     double [] array = new double[size];
     for(int i= 0; i < size; i++)
@@ -120,7 +120,7 @@ double Min(double [] darray)
     return min;
 }
 
-void Printarray(double [] arr) //print massive
+void Printarray(double [] arr) //print array
 {
     for(int i = 0; i<arr.Length; i++ )
     {
