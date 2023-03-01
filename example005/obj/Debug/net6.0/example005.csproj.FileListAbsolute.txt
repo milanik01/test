@@ -1,0 +1,15 @@
+/Users/sdfsdfssfsdfds/test/example005/bin/Debug/net6.0/example005
+/Users/sdfsdfssfsdfds/test/example005/bin/Debug/net6.0/example005.deps.json
+/Users/sdfsdfssfsdfds/test/example005/bin/Debug/net6.0/example005.runtimeconfig.json
+/Users/sdfsdfssfsdfds/test/example005/bin/Debug/net6.0/example005.dll
+/Users/sdfsdfssfsdfds/test/example005/bin/Debug/net6.0/example005.pdb
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.csproj.AssemblyReference.cache
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.AssemblyInfoInputs.cache
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.AssemblyInfo.cs
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.csproj.CoreCompileInputs.cache
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.dll
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/refint/example005.dll
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.pdb
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/example005.genruntimeconfig.cache
+/Users/sdfsdfssfsdfds/test/example005/obj/Debug/net6.0/ref/example005.dll
