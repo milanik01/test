@@ -292,7 +292,7 @@ CreateArray();
 // 12 13 14 05
 // 11 16 15 06
 // 10 09 08 07
-
+/*
 void CreateArray(int rows, int columns)
 {
     int [,] newArray = new int[rows, columns];
@@ -377,3 +377,4 @@ int m = Convert.ToInt32(Console.ReadLine());
  Console.WriteLine("Input columns ");
 int n = Convert.ToInt32(Console.ReadLine());
 CreateArray(m,n);
+*/
